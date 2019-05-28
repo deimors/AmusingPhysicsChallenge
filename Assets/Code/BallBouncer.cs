@@ -10,12 +10,12 @@ public class BallBouncer : MonoBehaviour
 	public float MinForce = 1000;
 	public float MaxForce = 10000;
 
-	void OnCollisionEnter2D(Collision2D col)
+	void OnCollisionEnter2D(Collision2D collision)
 	{
-		if (col.contactCount == 0)
+		if (collision.contactCount == 0)
 			return;
 
-		var firstPoint = col.contacts.First().point;
+		var firstPoint = collision.contacts.First().point;
 
 		var dir = ((Vector2) transform.position - firstPoint).normalized;
 
