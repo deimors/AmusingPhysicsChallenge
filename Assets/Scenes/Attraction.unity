@@ -145,7 +145,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -161,7 +161,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 7989898}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -273,7 +273,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -289,7 +289,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 10590805}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -480,7 +480,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -496,7 +496,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 56355636}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -690,7 +690,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -706,7 +706,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 159611247}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -818,7 +818,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -834,7 +834,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 213011346}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -946,7 +946,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -962,7 +962,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 225809096}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -1148,7 +1148,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -1164,7 +1164,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 347661136}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -1282,7 +1282,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -1298,7 +1298,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 376325282}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -1410,7 +1410,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -1426,7 +1426,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 433310228}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -1607,7 +1607,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -1623,7 +1623,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 503199460}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -1821,7 +1821,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -1837,7 +1837,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 559520891}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -1949,7 +1949,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -1965,7 +1965,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 700821085}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -2151,7 +2151,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -2167,7 +2167,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 743616949}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -2279,7 +2279,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -2295,7 +2295,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 753718538}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -2407,7 +2407,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -2423,7 +2423,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 780574262}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -2535,7 +2535,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -2551,7 +2551,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 787228020}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -2737,7 +2737,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -2753,7 +2753,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1022429066}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -2865,7 +2865,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -2881,7 +2881,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1179320542}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -2993,7 +2993,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -3009,7 +3009,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1236934194}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -3121,7 +3121,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -3137,7 +3137,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1253951989}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -3249,7 +3249,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -3265,7 +3265,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1305472880}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -3377,7 +3377,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -3393,7 +3393,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1427999909}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -3505,7 +3505,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -3521,7 +3521,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1449739562}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -3633,7 +3633,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -3649,7 +3649,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1459464864}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -3761,7 +3761,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -3777,7 +3777,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1546263631}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -3889,7 +3889,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -3905,7 +3905,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1570661024}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -4134,7 +4134,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -4150,7 +4150,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1644609857}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -4324,7 +4324,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -4340,7 +4340,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1778585014}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -4526,7 +4526,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -4542,7 +4542,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1847894030}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -4654,7 +4654,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -4670,7 +4670,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 2058605050}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -4782,7 +4782,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -4798,7 +4798,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 2079808153}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -4910,7 +4910,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 1
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -4926,7 +4926,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 2096005617}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 6200000, guid: 6a5144b5530b59f4a966c1a3d42e31cb, type: 2}
+  m_Material: {fileID: 6200000, guid: 17ee21cbf80b1a24481957a889143271, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
